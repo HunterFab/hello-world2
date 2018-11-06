@@ -1,6 +1,6 @@
 # Hello, JavaScript!
 
-You remember Hello, HTML!, right? Well, this is Hello, JavaScript! You'll be adding to your existing `hello-world` repository and giving that once rather dull website a little interaction.
+You remember `Hello, HTML!`, right? Well, this is `Hello, JavaScript!`. You'll be adding to your existing `hello-world` repository and giving that once rather dull website a little interaction.
 
 ## Getting Started
 
